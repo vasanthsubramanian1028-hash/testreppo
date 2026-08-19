@@ -1,0 +1,16 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Fix Bug #104",
+        "description": "Resolve null pointer execution thread.",
+        "status": "IN_PROGRESS",
+        "created_at": "2026-08-19T19:59:54.508744"
+    },
+    "2": {
+        "id": 2,
+        "title": "Code Review",
+        "description": "Review backend authentication logic updates.",
+        "status": "PENDING",
+        "created_at": "2026-08-19T19:59:54.508744"
+    }
+}
